@@ -14,7 +14,7 @@ public class Demo01 {
 	@MyField(ColumnName="id",ColumnType="String",length=10)
 	private String id;
 	@MyField(ColumnName="order_id",ColumnType="String",length=10)
-    private String orderId;
+    private String orderId; 
 	@MyField(ColumnName="order_name",ColumnType="String",length=10)
 	private int orderName;
 
